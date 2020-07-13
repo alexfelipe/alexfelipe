@@ -15,10 +15,7 @@ Usually, I create new repositories for store some personal projects, configurati
 
 Feel free to explore and re-use any of my projects :wink:
 
-I do some weird things too, for example, a file for custom my Windows Terminal :smirk:
-
-![](image.png)
-
+> I do some weird things too, for example, a file for custom my Windows Terminal :smirk:
 > I hope that you don't judge me because it hehe
 
 If you want to know more about me, follow me on my social medias:
