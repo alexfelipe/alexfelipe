@@ -11,6 +11,10 @@ Besides my professional skills, I love to play games on PC and I spend a lot of 
 
 ## My repositories content
 
+![Alex Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=alexfelipe&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexfelipe&layout=compact&theme=radical)
+
 Usually, I create new repositories for store some personal projects, configurations or sample content. The projects are about my work or my hobby (content creation), theferore, most public repositories are experimental or samples of a article (or series) that I wrote.
 
 Feel free to explore and re-use any of my projects :wink:
