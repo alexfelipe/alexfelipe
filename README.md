@@ -10,7 +10,7 @@ I'm Alex Felipe, a developer and instructor at Alura.
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 
-My main skills are on Android, Kotlin and Java development. During my career, I wrote many articles about software development with topics like web API, mobile Apps, programing tips, refactoring and etc. You can [check out my content on my Medium profile](https://medium.com/@alex.felipe).
+My main skills are on Android, Kotlin and Java development. During my career, I wrote many articles about software development with topics like web API, mobile Apps, programing tips, refactoring etc. You can [check out my content on my Medium profile](https://medium.com/@alex.felipe).
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
