@@ -3,8 +3,6 @@
 
 I'm Alex Felipe, a developer and instructor at Alura. 
 
-My main skills are on Android, Kotlin and Java development. During my career, I wrote many articles about software development with topics like web API, mobile Apps, programing tips, refactoring and etc. You can [check out my content on my Medium profile](https://medium.com/@alex.felipe).
-
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -12,11 +10,13 @@ My main skills are on Android, Kotlin and Java development. During my career, I 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 
+My main skills are on Android, Kotlin and Java development. During my career, I wrote many articles about software development with topics like web API, mobile Apps, programing tips, refactoring and etc. You can [check out my content on my Medium profile](https://medium.com/@alex.felipe).
+
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+
 Besides my professional skills, I love to play games on PC and I spend a lot of my time playing games with my friends. :sweat_smile:
 
-<div>
-  <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
-</div>
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 ## My repositories content
 
